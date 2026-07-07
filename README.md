@@ -4,8 +4,8 @@
 - [x] P2 Chapters
 ## Settings
 - [x] Settings - UI
-- [ ] Settings - Import/Export
-- [ ] Settings - Audio
+- [x] Settings - Import/Export
+- [x] Settings - Audio
 - [ ] Storm - CC System Rewrite
 - [ ] Settings - Video
 - [ ] Settings - Keyboard/Mouse

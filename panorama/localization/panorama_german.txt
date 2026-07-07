@@ -556,9 +556,9 @@
 
 		"Settings_ClosedCaptions_Title"						"Untertitel"
 		"Settings_ClosedCaptions_Enable"					"Untertitel"
-		"Settings_ClosedCaptions_Enable_info"				"Aktiviert Untertitel für hörgeschädigte Nutzer. Geräusche und gesprochene Dialoge werden für eine gewisse Zeit auf dem Bildschirm angezeigt.\n<movie src=\"file://{videos}/settings/cc.webm\" />"
+		"Settings_ClosedCaptions_Enable_info"				"Aktiviert Untertitel für hörgeschädigte Nutzer. Geräusche und gesprochene Dialoge werden für eine gewisse Zeit auf dem Bildschirm angezeigt.<br><img src=\"file://{images}/menu/p2ce-generic.png\" />"
 		"Settings_ClosedCaptions_Subtitles"					"Untertitel - Sprache"
-		"Settings_ClosedCaptions_Subtitles_info"			"Wenn diese Option aktiviert ist, werden nur Dialoge auf dem Bildschirm angezeigt. Erfordert die Aktivierung der Einstellung für Untertitel.\n<movie src=\"file://{videos}/settings/cc_subtitles.webm\" />"
+		"Settings_ClosedCaptions_Subtitles_info"			"Wenn diese Option aktiviert ist, werden nur Dialoge auf dem Bildschirm angezeigt. Erfordert die Aktivierung der Einstellung für Untertitel."
 
 		// Storm - CC System Rewrite
 		"Settings_ClosedCaptions_Font"						"Font"
