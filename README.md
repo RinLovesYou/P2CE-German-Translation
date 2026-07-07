@@ -15,10 +15,10 @@
 - [ ] Settings - Miscellaneous
 
 ## Main Menu
-- [ ] Main Menu - Header Tabs
-- [ ] Main Menu - Home Page
+- [x] Main Menu - Header Tabs
+- [x] Main Menu - Home Page
 - [ ] socials
-- [ ] featured
+- [x] featured
 - [ ] Main Menu - News
 - [ ] Main Menu - Saverestore
 
